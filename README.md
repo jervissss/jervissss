@@ -31,7 +31,7 @@
 
 *РТУ МИРЭА, Москва*
 
-## 🎓 Курсы
+## 📖 Курсы
 
 | Название | Организация | Период |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 | **Введение в программирование (С++)** | Stepic | 09/2025 - Настоящее время |
 
 
-## 🚀 Мои технологии:</h3>
+## ⚡ Мои технологии:</h3>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="50" height="50"  />     </a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="50" height="50" />     </a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="50" height="50" />     </a>
@@ -49,7 +49,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" />     </a>
 </p>
 
-## 🚀 Мои инструменты:</h3>
+## 🛠️ Мои инструменты:</h3>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="50" height="50" />     </a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="50" height="50" />     </a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="50" height="50" />     </a>
